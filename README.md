@@ -4,17 +4,17 @@ This repository will contain the boilerplate codes required to build a deep lear
 
 The main parts of a deep learning model in pytorch is as follows:
 *Training Part*
-> Dataset Class
-> Transforms
-> DataLoader
-> Network
-> Training Loop
-> Model Saver
+- Dataset Class
+- Transforms
+- DataLoader
+- Network
+- Training Loop
+- Model Saver
 
 *Prediction Part*
-> Model Loader
-> Single Example Predictor
-> Batch Predictor
+- Model Loader
+- Single Example Predictor
+- Batch Predictor
 
 *Deploying Part*
-> API BoilerPlate
+- API BoilerPlate
